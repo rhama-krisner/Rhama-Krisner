@@ -27,13 +27,38 @@ No início de 2020 foquei na utilização do python, na criação de API's, util
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhama-krisner&langs_count=8&theme=dark)](https://github.com/rhama-krisner/)
 [![Rhama Krisner GitHub stats](https://github-readme-stats.vercel.app/api?username=rhama-krisner&theme=dark)](https://github.com/rhama-krisner/)
 
-## Connect Whith me. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+## Connect Whith me.
 
-<a href="https://www.linkedin.com/in/rhamakrisner/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-<a href="https://github.com/rhama-krisner"><img src="https://img.icons8.com/color/48/000000/github-2.png"/></a>
+<a href="https://www.linkedin.com/in/rhamakrisner/" alt="linkedin" target="_blank">
 
-## Minhas Tecologias.
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
 
+</a>
+
+<a href="mailto:rhamakrisner@gmail.com" alt="gmail" target="_blank">
+
+<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:<SEUEMAIL>" />
+
+</a>
+
+[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:rhama.krisner@hotmail.com)](mailto:rhama.krisner@hotmail.com)
+
+
+<h3 align="left">Minhas tecnologias: </h3>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 
 #### Obrigado por visitar o meu perfil :v:
