@@ -43,7 +43,6 @@ No início de 2020 foquei na utilização do python, na criação de API's, util
 
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:rhama.krisner@hotmail.com)](mailto:rhama.krisner@hotmail.com)
 
-
 <h3 align="left">Minhas tecnologias: </h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
