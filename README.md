@@ -27,7 +27,7 @@ No início de 2020 foquei na utilização do python, na criação de API's, util
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhama-krisner&langs_count=8&theme=dark)](https://github.com/rhama-krisner/)
 [![Rhama Krisner GitHub stats](https://github-readme-stats.vercel.app/api?username=rhama-krisner&theme=dark)](https://github.com/rhama-krisner/)
 
-## Fale cimigo 📫
+## Fale comigo 📫
 
 <a href="https://www.linkedin.com/in/rhamakrisner/" alt="linkedin" target="_blank">
 
