@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 ## Sobre mim
 Estudo programação há 5 anos e estou no 2° período da faculdade de Sistemas de Informação. Sou um desenvolvedor de back-end Python. 
 
-Sempre tentando melhorar a minha lógica.Nesse início como não tinha um caminho certo, aprendi introduções basicas de, JavaScript, Java, C++ e Python. Não tinha uma linguagem em específico, pois o mais importante sempre foi, como programar, como usar a logica, e não qual ferramenta usar.
-No início de 2020 foquei na utilização do python, na criação de API's, utilizando o Django e o Django Rest Framework, onde reforçava meus conhecimentos sempre voltados ao backend e como ele funciona. Ainda continuo estudando e reforçando meu conhecimentos em criação de rotas, comunicação com o frontend, criação e comunicação de views. A área de atuação nunca foi um problema para mim. Pois tenho gosto por programar, não importando a plataforma ou a linguagem.
+Sempre tentando melhorar a minha lógica. Nesse início como não tinha um caminho certo, aprendi introduções basicas de, JavaScript, Java, C++ e Python. Não tinha uma linguagem em específico, pois o mais importante sempre foi, como programar, como usar a lógica, e não qual ferramenta usar.
+No início de 2020 foquei na utilização do python, na criação de API's, utilizando o Django e o Django Rest Framework. Ainda continuo estudando e reforçando meus conhecimentos em criação de rotas, comunicação com o frontend, criação e comunicação de views. A área de atuação nunca foi um problema para mim. Pois tenho gosto por programar, não importando a plataforma ou a linguagem.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhama-krisner&langs_count=8&theme=dark)](https://github.com/rhama-krisner/)
