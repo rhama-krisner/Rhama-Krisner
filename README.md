@@ -9,11 +9,11 @@ Olá, eu sou Rhama Krisner
 Here are some ideas to get you started:
 
 -->
-:snake: Desenvolvedor Python para Backend 
+:computer: Desenvolvedor focado no Backend
 
-:books: Atualmente estudo Django e Django REST Framework.
+:books: Tenho conhecimento con Python, Django e Django REST Framewrok. Atualmente estudo PHP.
 
-:outbox_tray: Objetivos 2021: melhorar ainda mais os meus conhecimentos e encontrar um novo emprego.
+:outbox_tray: Objetivos 2021: melhorar ainda mais os meus conhecimentos e e conseguir entrar na área tecnológica (o que eu almejo há algum tempo).
 
  
 
