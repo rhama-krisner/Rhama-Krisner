@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 :books: Tenho conhecimento con Python, Django e Django REST Framewrok. Atualmente estudo PHP.
 
-:outbox_tray: Objetivos 2021: melhorar ainda mais os meus conhecimentos e e conseguir entrar na área tecnológica (o que eu almejo há algum tempo).
+:outbox_tray: Objetivos 2022: melhorar ainda mais os meus conhecimentos e e conseguir entrar na área tecnológica (o que eu almejo há algum tempo).
 
  
 
